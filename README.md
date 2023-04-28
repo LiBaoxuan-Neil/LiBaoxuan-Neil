@@ -1,4 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiBaoxuan-Neil&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiBaoxuan-Neil&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LiBaoxuan-Neil/LiBaoxuan-Neil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
