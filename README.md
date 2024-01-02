@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-enjoy programming
+- 🔭 I’m currently working on Bixin for Java
+- 🌱 I’m currently learning operating systems and source code of Java
+- 💬 Ask me about Java development
