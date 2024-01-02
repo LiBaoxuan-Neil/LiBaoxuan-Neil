@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">👋 Hey! I'm LiBaoxuan. </h2>
 <br />
+<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 - 🔭 I’m currently working on Bixin for Java
 - 🌱 I’m currently learning operating systems and source code of Java
