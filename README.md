@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h2 align="center">👋 Hey! I'm LiBaoxuan. </h2>
 <br />
 
-- 🔭 I’m currently working on [Bixin for Java](https://www.bxapp.cn/#/)
+- 🔭 I’m currently working on [Bixin](https://www.bxapp.cn/#/)
 - 🌱 I’m currently learning operating systems and source code of Java
 - 💬 Ask me about Java development
 
