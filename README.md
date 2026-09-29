@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <h2 align="center">👋 Hey! I'm LiBaoxuan. </h2>
 <br />
 
+[![@LiBaoxuan's Holopin board](https://holopin.io/api/user/board?user=libaoxuanneil)](https://holopin.io/@libaoxuanneil)
+
 - 🔭 I’m currently working on [INOVANCE](https://www.inovance.com/portal/aboutus)
 - 🌱 I’m currently learning operating systems and source code of Java
 - 💬 Ask me about Java development
